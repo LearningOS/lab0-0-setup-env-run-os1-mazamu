@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "run_os1",
+      "name": "run_os3",
       "setup": "",
-      "run": "make test1",
+      "run": "make test3",
       "input": "",
       "output": "",
       "comparison": "included",
